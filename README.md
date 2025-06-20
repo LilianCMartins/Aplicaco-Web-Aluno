@@ -29,11 +29,11 @@ npm run dev
 
 ## Tecnologias 
 
-React
-Vite
-Material-UI (MUI)
-React Router DOM
-Axios
+- React  
+- Vite  
+- Material-UI (MUI)  
+- React Router DOM  
+- Axios
 
 ## Autora
 
