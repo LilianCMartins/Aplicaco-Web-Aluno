@@ -27,6 +27,8 @@ npm run dev
 
 ✏️ Editar e remover alunos
 
+## Vercel
+https://aplicaco-web-aluno-git-main-liliancmartins-projects.vercel.app/
 ## Tecnologias 
 
 - React  
